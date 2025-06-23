@@ -1,0 +1,3 @@
+- se hai il `docker.yml` allora `docker compose up -d`
+- se hai il file in una repo di github `docker pull link` e  `docker run -p port:port link`
+- se hai scaricato la repo `docker build -t nome_container .` e `docker run -p port:port nome_container`
